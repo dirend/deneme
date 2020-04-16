@@ -1,5 +1,3 @@
 "# deneme" 
 
-5
-
-y1
+Temiz Sayfa
